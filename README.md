@@ -1,4 +1,3 @@
-# Woomin's Github
----
+## Woomin's Github
 
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_Java)&nbsp;
+- Backend: [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_Java)&nbsp;
