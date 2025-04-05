@@ -1,5 +1,6 @@
-## Woomin's Github
-
+## 🌱 백엔드 개발자를 꿈꾸는 대학생 왕우민입니다!
+- 기록을 좋아하고, 작은 성취에 큰 기쁨을 느낍니다.
+- 매일 조금씩 배우고 성장 중입니다.
 
 ### Vlog
 <div style="display:flex; flex-direction:row;">
