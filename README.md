@@ -24,12 +24,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>IGNOA</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PrePair</strong>
-</p>
-
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer"
