@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://ignoa-web.vercel.app/login">
+  <a href="https://ignoa-web.vercel.app/app">
     <img
       width="120"
       height="120"
